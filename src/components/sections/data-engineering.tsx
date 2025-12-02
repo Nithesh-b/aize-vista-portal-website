@@ -64,7 +64,7 @@ const DataEngineeringSection = () => {
 
           <div className="lg:col-span-3">
             <div className="relative h-full min-h-[400px]">
-              <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 opacity-25 blur-lg"></div>
+              <div className="absolute -inset-4 rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 opacity-30 blur-2xl"></div>
               <div className="relative h-full overflow-hidden rounded-lg bg-white shadow-xl">
                 <Image
                   src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/a5c49d08-675b-4dc9-b857-a83573844347-preview--aize-vista-portal-lovable-app/assets/images/images_3.png"
